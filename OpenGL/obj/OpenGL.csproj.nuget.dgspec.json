@@ -10,14 +10,14 @@
         "projectUniqueName": "G:\\Documents\\c#\\OpenGL\\OpenGL\\OpenGL.csproj",
         "projectName": "OpenGL",
         "projectPath": "G:\\Documents\\c#\\OpenGL\\OpenGL\\OpenGL.csproj",
-        "packagesPath": "C:\\Users\\TEMP.VEA.047\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\TEMP.VEA.051\\.nuget\\packages\\",
         "outputPath": "G:\\Documents\\c#\\OpenGL\\OpenGL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TEMP.VEA.047\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "\\\\irbe\\s24baderitv\\PROFILE\\AppData\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

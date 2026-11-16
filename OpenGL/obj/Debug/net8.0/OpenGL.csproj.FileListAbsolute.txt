@@ -28,3 +28,4 @@ G:\Documents\c#\OpenGL\OpenGL\obj\Debug\net8.0\refint\OpenGL.dll
 G:\Documents\c#\OpenGL\OpenGL\obj\Debug\net8.0\OpenGL.pdb
 G:\Documents\c#\OpenGL\OpenGL\obj\Debug\net8.0\OpenGL.genruntimeconfig.cache
 G:\Documents\c#\OpenGL\OpenGL\obj\Debug\net8.0\ref\OpenGL.dll
+G:\Documents\c#\OpenGL\OpenGL\obj\Debug\net8.0\OpenGL.sourcelink.json
